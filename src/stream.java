@@ -44,4 +44,6 @@ public class stream {
                     return s.startsWith("A");
                 });
     }
+
+    // Here are some notes
 }
